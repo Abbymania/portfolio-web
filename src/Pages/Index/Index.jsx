@@ -17,7 +17,7 @@ import projectImg02 from './../../assets/portfolio-image-02.png'
 import projectImg03 from './../../assets/portfolio-image-03.png'
 import projectImg04 from './../../assets/portfolio-image-04.png'
 
-import file from './../../assets/DemoDownload.txt'
+import file from './../../assets/anuj_cv.pdf'
 
 function Index() {
     return (
@@ -41,7 +41,7 @@ function Index() {
                                 ></ReactTyped>
                             </span>
                         </p>
-                        <p>Hello, I am Anuj known as Anuj45 in minecraft I do a lot of stuff but mostly I fous on guild management,server management/staffing and minecraft developer development.</p>
+                        <p>Hello, I am Anuj known as Anuj45 in minecraft I do a lot of stuff but mostly I focus on guild management,server management/staffing and minecraft server development.</p>
 
                         <div className={indexCSS.social}>
                             <a href="https://www.facebook.com/"
