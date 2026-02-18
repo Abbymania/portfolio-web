@@ -1,7 +1,7 @@
 import React, { useRef } from "react";
 import navCSS from './../Nav/Nav.module.css'
 
-function Nav () {
+function Nav() {
     const menu = useRef();
 
     const menuhandler = () => {
@@ -11,7 +11,7 @@ function Nav () {
     return (
         <div className={navCSS.nav}>
             <div className={navCSS.logo}>
-                <a href="#">Rohan</a>
+                <a href="#">Anuj A.</a>
             </div>
 
             <ul ref={menu}>
