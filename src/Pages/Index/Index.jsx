@@ -3,7 +3,7 @@ import Nav from "../../Compoents/Nav/Nav";
 
 import indexCSS from './../Index/Index.module.css'
 
-import heroImg from './../../assets/hero-image.jpg'
+import heroImg from './../../assets/hero-image.png'
 import aboutimage from './../../assets/about-hero.png'
 
 import frontend from './../../assets/Frontend.png'
